@@ -4,3 +4,5 @@ def meal_choice("meat", other)
 end
 
 meal_choice
+
+meal_choice("vegan")
