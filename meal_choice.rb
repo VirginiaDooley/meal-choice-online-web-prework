@@ -3,6 +3,6 @@
 def choice(meal_choice ="meat")
 end
 
-meal_choice 
+#{meal_choice} 
 
 choice("vegan")
